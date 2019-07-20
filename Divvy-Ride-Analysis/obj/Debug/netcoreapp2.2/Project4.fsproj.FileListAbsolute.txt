@@ -1,0 +1,10 @@
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\bin\Debug\netcoreapp2.2\Project4.deps.json
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\bin\Debug\netcoreapp2.2\Project4.runtimeconfig.json
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\bin\Debug\netcoreapp2.2\Project4.runtimeconfig.dev.json
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\bin\Debug\netcoreapp2.2\Project4.dll
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\bin\Debug\netcoreapp2.2\Project4.pdb
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\obj\Debug\netcoreapp2.2\Project4.fsprojAssemblyReference.cache
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\obj\Debug\netcoreapp2.2\Project4.AssemblyInfoInputs.cache
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\obj\Debug\netcoreapp2.2\Project4.AssemblyInfo.fs
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\obj\Debug\netcoreapp2.2\Project4.dll
+C:\Users\omars\Google Drive\4.UIC Spring 2019\CS 341\F#\Project 4\obj\Debug\netcoreapp2.2\Project4.pdb
